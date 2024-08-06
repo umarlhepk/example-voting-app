@@ -7,7 +7,7 @@ I successfully deployed the Example Voting App on Azure, utilizing Azure DevOps 
 ## Key Highlights
 
 - **Continuous Integration with Azure DevOps:**
-  - Set up CI pipelines using Azure DevOps Repos to automate the building and testing of the application.
+  - Set up CI pipelines using Azure DevOps Repos to automate the application's building and testing.
   - Streamlined code changes and updates through version control integrated within Azure DevOps.
 
 - **Continuous Deployment with GitOps using ArgoCD:**
@@ -25,11 +25,7 @@ I successfully deployed the Example Voting App on Azure, utilizing Azure DevOps 
 
 ## Architecture Diagram
 
-![Architecture Diagram](path/to/architecture.excalidraw.png)
-
-## CI/CD Pipeline
-
-![CI:CD Pipeline](path/to/CI/CD Pipeline.png)
+![Architecture Diagram](https://github.com/dockersamples/example-voting-app/blob/main/architecture.excalidraw.png)
 
 ## Project Details
 
